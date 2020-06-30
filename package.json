@@ -4,7 +4,7 @@
     "description": "",
     "main": "index.js",
     "scripts": {
-        "deploy": "gh-pages -d Color guessing game - jQuery"
+        "deploy": "gh-pages -d rgb_color_guessing_game"
     },
     "author": "Saalik",
     "license": "ISC",
